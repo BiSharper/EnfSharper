@@ -1,0 +1,3 @@
+[submodule "EnScript"]
+	path = EnScript
+	url = https://github.com/BiSharper/EnfSharper.EnScript
